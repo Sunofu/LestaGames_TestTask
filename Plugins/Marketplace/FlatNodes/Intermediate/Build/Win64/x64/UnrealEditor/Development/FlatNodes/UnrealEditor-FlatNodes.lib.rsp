@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FlatNodes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\LestaGames_TestTask\Intermediate\Build\Win64\x64\Lesta_TestTaskEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\LestaGames_TestTask\Plugins\Marketplace\FlatNodes\Intermediate\Build\Win64\x64\UnrealEditor\Development\FlatNodes\Module.FlatNodes.cpp.obj"
+"C:\LestaGames_TestTask\Plugins\Marketplace\FlatNodes\Intermediate\Build\Win64\x64\UnrealEditor\Development\FlatNodes\Default.rc2.res"
+/OUT:"C:\LestaGames_TestTask\Plugins\Marketplace\FlatNodes\Intermediate\Build\Win64\x64\UnrealEditor\Development\FlatNodes\UnrealEditor-FlatNodes.lib"
